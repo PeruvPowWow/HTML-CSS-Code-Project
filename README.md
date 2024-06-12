@@ -14,6 +14,7 @@ This project involved making changes to an existing website to improve its acces
 * CSS Changes: Refactored CSS code to match the semantic HTML structure, improving code readability and maintenance.
 Adjusted image heights for consistency and visual appeal.
 Added padding and centered text in the footer element for better layout.
+![picture of html with new semantic elelnents](https://github.com/PeruvPowWow/homework-challenge-1/blob/main/assets/images/Screenshot%202024-06-12%20at%201.22.57%E2%80%AFPM.png)
 
 ## Mock-Up Comparison
 The final version of the web page matches the provided mock-up as close as possible, demonstrating successful implementation of the required changes in the assignment
@@ -44,5 +45,6 @@ By using these practices in HTML and CSS development, this project successfully 
 ## Deployement Link
 
 ## Repository Link
+https://github.com/PeruvPowWow/homework-challenge-1/tree/main
 
 

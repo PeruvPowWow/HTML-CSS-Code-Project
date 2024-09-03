@@ -43,7 +43,7 @@ While this webpage/assingment addressed the specified requirements, future enhan
 By using these practices in HTML and CSS development, this project successfully improved the accessibility and code quality of the website. The enhanced user experience and search engine optimization benefits contribute to the overall success of the project.
 
 ## Deployement Link
-https://peruvpowwow.github.io/homework-challenge-1/
+https://peruvpowwow.github.io/HTML-CSS-Code-Project/
 
 ## Repository Link
 https://github.com/PeruvPowWow/homework-challenge-1/tree/main
